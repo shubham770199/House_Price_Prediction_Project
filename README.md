@@ -128,9 +128,10 @@ house_price_prediction/
  Viva-ready project structure
 
 📌 Author
-👨‍💻 Atul Mishra,shubham, Vishal,Nehad.
-Solo Developer – AIML Student
+👨‍💻 shubham.
+Solo Developer – student.
 Tools: Python, VS Code, Streamlit, Kaggle, Git
+
 
 
 
